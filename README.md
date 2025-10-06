@@ -56,7 +56,7 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 sudo setoolkit
 ```
-<img width="938" height="834" alt="image" src="https://github.com/user-attachments/assets/21253856-ebbb-4078-a6f5-61b36e41a91b" />
+<img width="1386" height="792" alt="1" src="https://github.com/user-attachments/assets/a0a08466-8934-4add-9af9-634dfa8877b7" />
 
 **2. Navigate:**
 ```bash
@@ -64,8 +64,8 @@ sudo setoolkit
 2) Website Attack Vectors  
 3) Credential Harvester Attack Method  
 ```
-<img width="957" height="720" alt="image" src="https://github.com/user-attachments/assets/0c5282b2-792f-40d1-a536-7cd52de019a6" />
-<img width="851" height="777" alt="image" src="https://github.com/user-attachments/assets/4b092420-6016-42ef-b668-abcc2840664d" />
+<img width="1388" height="792" alt="2" src="https://github.com/user-attachments/assets/7d990c8c-4207-48bb-8812-8d2ecce366cb" />
+<img width="1386" height="795" alt="3" src="https://github.com/user-attachments/assets/c7961fca-76a5-4bba-ad26-6059077abadc" />
 
 
 **3. Enter your IP address as the attacker server.**
@@ -73,21 +73,21 @@ sudo setoolkit
 ```bash
 2) Site Cloner
 ```
-<img width="663" height="343" alt="image" src="https://github.com/user-attachments/assets/ef91abbb-e02d-440c-811f-ba16f407f2b9" />
+<img width="1390" height="791" alt="4" src="https://github.com/user-attachments/assets/fa670c28-8885-4e29-b3ce-0b9b63ff12c1" />
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
-<img width="843" height="199" alt="image" src="https://github.com/user-attachments/assets/989326f4-6f84-468d-9271-1184f9fcfa9f" />
+<img width="1385" height="797" alt="5" src="https://github.com/user-attachments/assets/16e938a1-df46-4998-88c7-bec404b95648" />
 
 
 **6. Send the generated link to the victim.**
-<img width="1278" height="842" alt="image" src="https://github.com/user-attachments/assets/76ea6d3b-7772-44bf-8c4c-6df3d90ea7c1" />
+<img width="1392" height="792" alt="6" src="https://github.com/user-attachments/assets/a4c81fe9-40f7-472b-a559-a47675579123" />
 
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
-<img width="945" height="427" alt="image" src="https://github.com/user-attachments/assets/2c257fb3-bbd2-45c3-839a-09462d18c477" />
+<img width="1376" height="382" alt="7" src="https://github.com/user-attachments/assets/848c0588-eab7-4d32-b927-baf6c5f1abfd" />
 
 
 
